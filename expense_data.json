@@ -1,0 +1,17 @@
+{
+    "1": {
+        "description": "Groceries",
+        "amount": 500,
+        "date": "08-01-2025"
+    },
+    "2": {
+        "description": "Internet Bill",
+        "amount": 1000,
+        "date": "08-01-2025"
+    },
+    "3": {
+        "description": "amazon",
+        "amount": 500.0,
+        "date": "09-01-2025"
+    }
+}
