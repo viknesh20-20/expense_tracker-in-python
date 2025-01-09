@@ -6,7 +6,7 @@ A command-line application to manage personal finances.
 - Add an expense with description, amount, and date.
 - View all recorded expenses.
 - Delete an expense by its unique ID.
-- Display total expenditure.
+- Display total monthly expenditure.
 - Save and load expenses to/from a file.
 
 ## How to Run
